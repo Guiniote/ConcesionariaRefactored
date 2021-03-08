@@ -1,0 +1,46 @@
+[ 
+    {
+        "marca": "Ford",
+        "modelo": "Fiesta",
+        "precio": 150000,
+        "km": 200,
+        "color": "Azul",
+        "cuotas": 12, 
+        "anio": 2019,
+        "patente": "APL123",
+        "vendido": false
+    }, 
+    {
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "precio": 100000,
+        "km": 0,
+        "color": "Blanco",
+        "cuotas": 14,
+        "anio": 2019,
+        "patente": "JJK116",
+        "vendido": false
+    }, 
+    {
+        "marca": "Renault",
+        "modelo": "Clio",
+        "precio": 120000,
+        "km": 40000,
+        "color": "Gris",
+        "cuotas": 6,
+        "anio": 2013,
+        "patente": "ABC123",
+        "vendido": false
+    }, 
+    {
+        "marca": "Volkswagen",
+        "modelo": "Gol",
+        "precio": 200000,
+        "km": 70,
+        "color": "Azul",
+        "cuotas": 24,
+        "anio": 2018,
+        "patente": "GGG444",
+        "vendido": false
+    }
+]
